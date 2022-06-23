@@ -1,0 +1,21 @@
+{
+  "name": "ig-arel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3",
+    "instagram-private-api": "github:areltiyan/instagram-private-api",
+    "instagram_mqtt": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
